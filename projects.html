@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Projects - Guha.com</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+    }
+    #main-header {
+      background-color: #343a40;
+      padding: 1rem 0;
+    }
+    .navbar-brand a {
+      color: white;
+      text-decoration: none;
+      font-size: 1.5rem;
+    }
+    .navbar-brand img {
+      margin-top: 0.5rem;
+      border-radius: 5px;
+    }
+    .navbar-nav a {
+      color: white;
+      text-decoration: none;
+      margin-left: 2rem;
+    }
+    .navbar-nav a:hover {
+      text-decoration: underline;
+    }
+    .main-content {
+      padding: 3rem 0;
+    }
+    #homepage-top {
+      background-color: #f8f9fa;
+      padding: 2rem 0;
+    }
+    #homepage-top h3 {
+      color: #333;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+    #homepage-top h3:first-child {
+      margin-top: 0;
+    }
+    #homepage-top p {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin-bottom: 1rem;
+    }
+    #homepage-top a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    #homepage-top a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div id="main">
+    <header id="main-header">
+      <nav class="navbar navbar-dark navbar-expand-lg col" id="main-nav">
+        <div class="container-fluid">
+          <div class="navbar-brand">
+            <a href="index.html">R.V.Guha</a><br>
+            <img src="mugshot.jpg" height="70" alt="R.V.Guha">
+          </div>
+          <div class="navbar-collapse justify-content-md-end" id="dc-main-nav">
+            <ul class="navbar-nav float-md-right">
+              <li class="nav-item">
+                <a href="projects.html">Projects</a>
+              </li>
+              <li class="nav-item">
+                <a href="cv.html">CV</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main id="homepage" class="main-content">
+      <section id="homepage-top">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 col-lg-10">
+              <h3>NLWeb</h3>
+              <p>
+                NLWeb is a collection of open protocols and associated open source tools. Its main focus is establishing a foundational layer for the AI Web — much like HTML revolutionized document sharing. To make this vision reality, NLWeb provides practical implementation code—not as the definitive solution, but as proof-of-concept demonstrations showing one possible approach. We expect and encourage the community to develop diverse, innovative implementations that surpass our examples. This mirrors the web's own evolution, from the humble 'htdocs' folder in NCSA's http server to today's massive data center infrastructures—all unified by shared protocols that enable seamless communication.
+
+AI has the potential to enhance every web interaction. Realizing this requires a collaborative spirit reminiscent of the Web's early "barn raising" days. Shared protocols, sample implementations, and community participation are all essential. NLWeb brings together protocols, Schema.org formats, and sample code to help sites quickly implement conversational endpoints — benefitting both users through natural interfaces and agents through structured interaction.
+              </p>
+              <p>
+                Learn more at <a href="https://github.com/NLWeb.ai">github.com/NLWeb.ai</a>.
+              </p>
+
+              <h3>Data Commons</h3>
+              <p>
+                This is an open knowledge repository that combines data from public datasets using mapped common entities. It includes tools to easily explore and analyze data across different datasets without data cleaning or joining.
+              </p>
+              <p>
+                In addition to a Data Commons about places (demographics, health, crime, economics, etc.), we are also building a Biomedical Data Commons and are starting on an Energy/Climate Data Commons.
+              </p>
+              <p>
+                I started working on this (during my stint away from Google),
+                collaborating with <a href="https://scholar.google.com/citations?user=PbfkKLcAAAAJ&hl=en">Andrew Moore</a> and <a href="https://www.nsf.gov/staff/staff_bio.jsp?lan=cbaru&org=NSF&from_org=">Chaitanya Baru</a> in the context of the <a href="https://www.nitrd.gov/nitrdgroups/index.php?title=Open_Knowledge_Network">Open Knowledge Network</a> effort. I returned to Google November 2017 and started building <a href="https://datacommons.org">Data Commons</a>.
+              </p>
+
+              <h3>Schema.org</h3>
+              <p>
+                <a href="https://schema.org">Schema.org</a> provides schemas for structured data on the web. It is in use by over 25 million sites and used to power a range of application in search, personal assistants, email, etc.
+              </p>
+              <p>
+                We started this project in 2010 together with collaborators from Microsoft and Yahoo. It launched in 2011 and shortly after, we were joined by Dan Brickley, who has been co-running Schema.org with me since.
+              </p>
+
+              <h3>Custom Search</h3>
+              <p>
+                We started <a href="https://cse.google.com">Google Custom (or Programmable) search</a>, to explore the idea of a platform where someone could combine their knowledge about a domain to create a better search for that domain, on top of Google's infrastructure, leveraging its web crawl, etc.
+              </p>
+
+              <h3>RDF & RSS</h3>
+              <p>
+                While at Apple, we created <a href="https://en.wikipedia.org/wiki/Meta_Content_Framework">MCF</a> as an attempt to introduce structured data as a first class citizen on the Web. It introduced simple knowledge representation ideas, notably in the form of directed labelled graphs, as a general data model for structured data on the Web. Later, at Netscape, this was submitted to the W3C (<a href="https://www.w3.org/TR/NOTE-MCF-XML.html">MCF Using XML</a>), which eventually evolved into the <a href="https://www.w3.org/RDF/">RDF</a> family of standards, including some which I authored, like <a href="https://www.w3.org/TR/rdf-schema/">RDF Schema</a>.
+              </p>
+              <p>
+                In 1999, Eckart Walther and I created the first version of <a href="https://en.wikipedia.org/wiki/RSS">RSS</a> as a mechanism for obtaining content for Netscape's portal. It seems to have survived beyond Netscape.
+              </p>
+
+              <h3>Cyc</h3>
+              <p>
+                I spent my twenties on the Cyc project at <a href="https://en.wikipedia.org/wiki/Microelectronics_and_Computer_Technology_Corporation">MCC</a>. It was an attempt to create a system capable of basic common sense reasoning using the kind of architecture advocated by symbolic logic (McCarthy, Feigenbaum and others). I left the project at the end of 1994 and Doug Lenat carried on with it in Cycorp.
+              </p>
+              <p>
+                Many ideas from that project flowed into the Semantic Web, the use of Knowledge Graphs in search, etc.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

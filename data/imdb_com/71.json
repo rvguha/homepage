@@ -1,0 +1,2927 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0367151/",
+    "name": "Tokugawa onna keibatsu-emaki: Ushi-zaki no kei",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDkxNDRiMGQtYjEzMy00Y2UwLTg3NmUtN2JhYmI4YzZjN2ExXkEyXkFqcGc@._V1_.jpg",
+    "description": "Two short stories set in Edo during the Shogun era. 1. During a time when Christians are persecuted vehemently, Iori falls in love with young Christian girl. When she and her family are captured during a raid, his sadistic master ...",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0367151/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "srinoyslash"
+      },
+      "dateCreated": "2019-08-07",
+      "inLanguage": "English",
+      "name": "Disturbing film showcases the evolution of tortures and sexual violence of Imperial Japan",
+      "reviewBody": "The film is divided in two parts: 1st half in 1600s of Edo and the 2nd half in 1800s of the Imperial Japan. The first half of the movie ultra violent nature of that hostile Edo rule depicting gore and horrific scenes might make your skin crawl.  The second half of the film tones down the violence a bit adding some dark humor and Black Comedy so as to show the society did progressed from it&apos;s Barbaric approaches of tortures or sexual violence to more humiliating approaches where the intention was to break them morally. The film certainly not suited for general audience because it would certainly lead you to depression.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 1
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 785,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 5.5
+    },
+    "genre": [
+      "Drama",
+      "Horror"
+    ],
+    "datePublished": "1976-09-04",
+    "keywords": "head cut off,torture,sadism,tied to a cross,punishment",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1069493/",
+        "name": "Yûsuke Kazato"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1376683/",
+        "name": "Rena Uchimura"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0794040/",
+        "name": "Akira Shioji"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1371352/",
+        "name": "Yûji Makiguchi"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0053157/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1182448/",
+        "name": "Masakazu Shimura"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1213687/",
+        "name": "Ichirô Ôtsu"
+      }
+    ],
+    "duration": "PT1H20M",
+    "@id": "https://www.imdb.com/title/tt0367151/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0092851/",
+    "name": "Dear America: Letters Home from Vietnam",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjk5NThkOTMtY2JkNi00OGVmLTkzOGUtZDExNGMxM2E1NDMyXkEyXkFqcGc@._V1_.jpg",
+    "description": "Feature-length documentary film featuring real-life letters written by American soldiers, sailors, airmen, and Marines during the Vietnam War to their families and friends back home.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0092851/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "ccthemovieman-1"
+      },
+      "dateCreated": "2006-05-05",
+      "inLanguage": "English",
+      "name": "Interesting Documentary, Powerful At Times",
+      "reviewBody": "Letters and film footage from actual soldiers and nurses who fought in Vietnam are read aloud and shown in this &quot;documentary.&quot; The letters are read by famous actors and actresses.\n\nIt turns out to be a sometimes-powerful moving saga of Vietnam through the eyes of those who were there but, remember, it&apos;s the filmmakers deciding what letters are read. That means you get an anti-Vietnam War bias, but it&apos;s not as blatant as one might think.\n\nThere is some good footage of bombings and nothing really gross, injury-wise, to view, most likely because this was made-for-TV.\n\nThe most moving part of the show was the last letter, from a mom to her son who had died 15 years earlier in Vietnam. That letter is a real tear-jerker. Overall, an excellent documentary, one of the better ones of its era.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 8
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 2002,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 7.9
+    },
+    "contentRating": "PG-13",
+    "genre": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "keywords": "live action,letter,vietnam war,vietnam,reenactment",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000297/",
+        "name": "Tom Berenger"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000995/",
+        "name": "Ellen Burstyn"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0132517/",
+        "name": "J. Kenneth Campbell"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0184323/",
+        "name": "Bill Couturié"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0298923/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0071180/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0039787/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0223166/",
+        "name": "Richard Dewhurst"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0184323/",
+        "name": "Bill Couturié"
+      }
+    ],
+    "duration": "PT1H24M",
+    "@id": "https://www.imdb.com/title/tt0092851/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0112366/",
+    "name": "Les anges gardiens",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmIyYmMwZWMtNzJlNC00ZDEzLTg2ZjQtYjc1NmUxZjg5NTM4XkEyXkFqcGc@._V1_.jpg",
+    "description": "Gerard Depardieu plays a sleazy Paris nightclub owner and ex-detective who flies to Hong Kong to rescue the young son of a friend murdered by the Chinese mob. He leaves the boy in the hands of an earnest priest (Christian Clavier)...",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0112366/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "barcelona28"
+      },
+      "dateCreated": "2005-11-07",
+      "inLanguage": "English",
+      "name": "Wanna laugh?",
+      "reviewBody": "From the same director that &quot;Les Visiteurs, 1993&quot; comes a great comedy which has Christian Clavier and Gérard Depardieu as the main characters. They both perform wonderfully well. This is an excellent movie, very very funny. I personally adore french humor. The characters are great, the actors are well chosen and do divinely in the film. The plot is genius. It&apos;s a bit out of reality, but everything is so smoothly developed that for some breve moments you can almost believe that the whole thing could actually happen for real. If you wanna have a good time, don&apos;t doubt it, just go and watch it, I&apos;m pretty sure you won&apos;t regret it.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 7
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 3614,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 5.9
+    },
+    "contentRating": "G",
+    "genre": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "datePublished": "1995-10-11",
+    "keywords": "friend,priest,hong kong,nightclub,chinese",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Bande-annonce [OV]",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi2195898393",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWFjMDEwNDctNWQyMS00Njc3LTk2MjQtMWIxYTJiMmU5OGQ4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWFjMDEwNDctNWQyMS00Njc3LTk2MjQtMWIxYTJiMmU5OGQ4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi2195898393/",
+      "description": "",
+      "duration": "PT2M8S",
+      "uploadDate": "2021-04-21T09:22:51.496Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000367/",
+        "name": "Gérard Depardieu"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0002010/",
+        "name": "Christian Clavier"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0342111/",
+        "name": "Eva Grimaldi"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0688585/",
+        "name": "Jean-Marie Poiré"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0100442/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0064278/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0079764/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0002010/",
+        "name": "Christian Clavier"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0688585/",
+        "name": "Jean-Marie Poiré"
+      }
+    ],
+    "duration": "PT1H50M",
+    "@id": "https://www.imdb.com/title/tt0112366/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0302952/",
+    "name": "Putt Jattan De",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGU5ZjgwYjItZGM2Mi00YmNkLThmMTAtMWEwODU0ZDliNTNhXkEyXkFqcGc@._V1_.jpg",
+    "description": "Two young men find their inherited rivalry exacerbated by a woman with whom they form a love triangle.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0302952/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "aussiemalwayi"
+      },
+      "dateCreated": "2018-01-19",
+      "inLanguage": "English",
+      "name": "Trendsetter of THETH Punjabi Movies",
+      "reviewBody": "Classic Punjabi Trendsetter movie with a big star cast in it. A blockbuster, which broke all the records of Punjabi Cinema.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 10
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 87,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 8
+    },
+    "genre": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "datePublished": "1983-08-26",
+    "keywords": "young,cockfight,1980s,kurta chadra,jutti",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0802374/",
+        "name": "Shatrughan Sinha"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0004429/",
+        "name": "Dharmendra"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1090228/",
+        "name": "Baldev Khosa"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3626134/",
+        "name": "Jagjeet Gill"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0265969/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1184733/",
+        "name": "Ajit Singh Deol"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3626134/",
+        "name": "Jagjeet Gill"
+      }
+    ],
+    "duration": "PT2H3M",
+    "@id": "https://www.imdb.com/title/tt0302952/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0077807/",
+    "name": "King of the Gypsies",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQxMzNjYjAtOTg0ZC00N2ZjLTllMjQtNmU3OGEwNThiY2Y3XkEyXkFqcGc@._V1_.jpg",
+    "description": "In the criminal and violent world of modern-day Gypsies based in New York City, their &apos;king&apos; Zharko Stepanowicz passes his leadership to his unwilling grandson, leaving the skipped father resentful.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0077807/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "bfjrnski"
+      },
+      "dateCreated": "2003-01-25",
+      "inLanguage": "English",
+      "name": "A rich and delightful expose of an American pastime!",
+      "reviewBody": "I remember seeing &quot;real&quot; gypsies as a child!They used to camp at different places at the Jersey shore!They had trailors,tents,cadillacs and all lived and traveled together in big families!They seemed so loud and happy!But where have all our Gypsies gone?You can hardly even see a genuine gypsy fortune-teller anymore!Perhaps this is because of the lure of American life!With welfare,WIC,medicare,section-8 housing,disability and eldercare who really wants to live a nomadic life?Let alone be an &quot;outlaw&quot; Gypsy and make a squalid living stealing and telling fortunes? &quot;King of the Gypsies&quot; answers a lot of  these questions without really saying so! We view many of the so-called traditions of American gypsies and witness their members decline into poverty and organized crime.The movie isn&apos;t completely true to the book.But by the movie&apos;s end we realize that the wild and colorful gypsy world is passing away.To be replaced by the hustle-n-bustle of American middle class life!"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 1509,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6.2
+    },
+    "contentRating": "R",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "datePublished": "1979-02-28",
+    "keywords": "romani people,romani culture,gypsy king,romani family,new york city",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Trailer",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi1574290201",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjZjY2Q5MGMtNDI5ZS00Y2I1LTgwNzgtOTc2Yjk4MjczYjQ5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjZjY2Q5MGMtNDI5ZS00Y2I1LTgwNzgtOTc2Yjk4MjczYjQ5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi1574290201/",
+      "description": "In the criminal and violent world of modern-day Gypsies based in New York City, their &apos;king&apos; Zharko Stepanowicz passes his leadership to his unwilling grandson, leaving the skipped father resentful.",
+      "duration": "PT2M56S",
+      "uploadDate": "2021-11-26T20:30:32.113Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000616/",
+        "name": "Eric Roberts"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0002139/",
+        "name": "Judd Hirsch"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000215/",
+        "name": "Susan Sarandon"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0682757/",
+        "name": "Frank Pierson"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0014380/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0530995/",
+        "name": "Peter Maas"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0682757/",
+        "name": "Frank Pierson"
+      }
+    ],
+    "duration": "PT1H52M",
+    "@id": "https://www.imdb.com/title/tt0077807/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0125015/",
+    "name": "Black Heat",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTVlODcyY2UtYWIyOS00ODU5LWEzZjYtYjMxYzc2NjAzYmI5XkEyXkFqcGc@._V1_.jpg",
+    "description": "Kicks Carter, a streetwise Las Vegs cop, is out to shut down an upscale hotel that is actually a front for a host of illegal activities. A gang headed by the scuzzy Ziggy is running everything from gun-running and loan-sharking to...",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0125015/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Michael_Elliott"
+      },
+      "dateCreated": "2013-02-09",
+      "inLanguage": "English",
+      "name": "By Adamson&apos;s Standards Pretty Good",
+      "reviewBody": "Black Heat (1976) \n\n** (out of 4)\n\nA tough black cop (Timothy Brown) from Las Vegas, with the help from his white partner (Geoffrey Land), tries to stop some criminals who are bringing heroin, weapons and other items into a local hotel. Director Al Adamson tackled just about every genre and he managed to make both decent and horrible films in each of them. BLACK HEAT might not be as much fun as something like Dracula VS. FRANKENSTEIN but for the most part it&apos;s probably the best made film I&apos;ve seen from the director. Had the running time been edited down another ten-minutes you might even say this was a good film from Adamson and that there would have been quite rare. The storyline itself certainly isn&apos;t anything we haven&apos;t seen from other Blaxploitation pictures but for the most part the cast is fun and we&apos;re given a couple good villains to help keep everything moving. On a technical level it appears to a little more effort went into the picture including a higher production value and some nice cinematography. There&apos;s a car chase towards the start of the picture that might be the best sequence from the director&apos;s filmmography and this includes a terrific shot of the action from on top of a cliff. Brown isn&apos;t the greatest actor in the world but I think he&apos;s good on screen and manages to help keep the film entertaining. Russ Tamblyn plays a drug dealer named Ziggy and adds a lot of fun and especially during his introduction scene. The film eventually runs out of gas and it drags too much during the finale but overall this is a minor effort in the genre that fans of the director&apos;s should like. The most bizarre scene is when a woman offers to do a gang bang if she loses a card game. She does lose but then tries to back out when the men force themselves on her. I&apos;m really not sure what Adamson was trying to go for during this scene but it&apos;s pretty bizarre with the type of score on it."
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 278,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 4.1
+    },
+    "contentRating": "R",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "datePublished": "1982-10-13",
+    "keywords": "poker game,pool hall,casino,blackjack,car chase",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0114790/",
+        "name": "Timothy Brown"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0848560/",
+        "name": "Russ Tamblyn"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0068724/",
+        "name": "Jana Bellan"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0011467/",
+        "name": "Al Adamson"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0066634/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0003091/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0195059/",
+        "name": "John D&apos;Amato"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0498242/",
+        "name": "Sheldon Lee"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0232691/",
+        "name": "Budd Donnelly"
+      }
+    ],
+    "duration": "PT1H34M",
+    "@id": "https://www.imdb.com/title/tt0125015/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0109480/",
+    "name": "Cops and Robbersons",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDhlY2U0MzUtMGI0Mi00YjkxLWIxOGItM2Q0OGNkYTRmZDBkXkEyXkFqcGc@._V1_.jpg",
+    "description": "A counterfeiter with a habit of &quot;eliminating&quot; the competition moves in next door to the Robbersons. Two cops move in with the Robbersons for a stakeout.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0109480/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "MJB784"
+      },
+      "dateCreated": "2024-05-31",
+      "inLanguage": "English",
+      "name": "Funny in some ways.",
+      "reviewBody": "Chevy Chase returns as a household family dad who wishes to be a cop and the next morning after returning a video, he meets two cops. One of the cops is played by Jack Palance. Meanwhile, Norman Robberson (Chevy Chase) gets warned from Palance that a serial killer is right next door to his house. The movie is directed by Michael Ritchie who directed Bad News Bears and both of the Fletch movies. Michael Ritchie made a problem to this film later on. In the middle, he makes the film kind of dumb. A lot of critics said that this film is not funny. Well, all I can say to them is that you could at least laugh once.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 5
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 7643,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 5.2
+    },
+    "contentRating": "PG",
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "datePublished": "1994-04-15",
+    "keywords": "male rear nudity,vampire costume,detective,dysfunctional family,counterfeiting",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Cops and Robbersons",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi1673462041",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDlhNDZkZTktNDZlZS00OTViLTkyNTAtNWI2NGNjYmM2OGVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDlhNDZkZTktNDZlZS00OTViLTkyNTAtNWI2NGNjYmM2OGVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi1673462041/",
+      "description": "Home Video Trailer from Columbia Tristar",
+      "duration": "PT30S",
+      "uploadDate": "2008-04-11T13:33:24Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000331/",
+        "name": "Chevy Chase"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0001588/",
+        "name": "Jack Palance"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0001848/",
+        "name": "Dianne Wiest"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0006916/",
+        "name": "Michael Ritchie"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0005883/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0079774/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0813825/",
+        "name": "Bernie Somers"
+      }
+    ],
+    "duration": "PT1H33M",
+    "@id": "https://www.imdb.com/title/tt0109480/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0127028/",
+    "name": "Mod lyset",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Y2MGIzN2ItZWI1Ni00ODhjLWJmZDAtNTNmMDRmN2M3ODZhXkEyXkFqcGc@._V1_.jpg",
+    "description": "Spoiled Ysabel marries a man of respectability but he later turns out to a criminal. Consequently, her mother breaks down, and on her deathbed, Ysabel wows to become an evangelist.",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 129,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6.2
+    },
+    "genre": [
+      "Drama"
+    ],
+    "datePublished": "1919-07-21",
+    "keywords": "mother,man",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0003425/",
+        "name": "Asta Nielsen"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0086003/",
+        "name": "Augusta Blad"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0414716/",
+        "name": "Frederik Jacobsen"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0390479/",
+        "name": "Holger-Madsen"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0060132/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0390479/",
+        "name": "Holger-Madsen"
+      }
+    ],
+    "duration": "PT55M",
+    "@id": "https://www.imdb.com/title/tt0127028/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0119879/",
+    "name": "Perdita Durango",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDBmMzY2YTAtYWVjNi00MmVjLWIxYWItZDRiMzNjMjQ2NTA1XkEyXkFqcGc@._V1_.jpg",
+    "description": "A psychotic criminal couple kidnaps a random teenage couple. The woman rapes the male captive, and lets him watch his lover being raped by the man. They then plan to sacrifice the couple.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0119879/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "iaido"
+      },
+      "dateCreated": "2000-01-30",
+      "inLanguage": "English",
+      "name": "Wild at Heart and Weird on Top",
+      "reviewBody": "Being a huge Barry Gifford fan, having enjoyed De La Iglesia&apos;s Day of the Beast, and of the opinion that Wild at Heart was one of the best novel to film adaptations in the history of cinema, needless to say, my expectations for this movie were very high. I couldnt have imagined it being so satisfying. \n\nDe La Iglesia&apos;s adaptation of Perdita Durango takes its liberties but (like Wild At Heart) finds its inspiration in the original source material without destroying the spirit.\n\nRomeo and Perdita carve their way through the world with violence, magic, and sex. They are sadistic, perverse, and perfect for each other. From their first fateful meeting, to their kidnapping of two suburban white kids, to driving a truck full of fetus destined to be black market makeup, it is a dark destiny, a collision of two black souls. If the movie has any message, it is that even the most wicked person has a diabolic soulmate. Love does not discriminate.\n\nThe performances are great. Javier Bardem as Romeo was totally unrecognizable as the same guy who played the stud in Jamon, Jamon. He plays Romeo as charming, self preserving, and almost noble killer because of his beliefs in darkness, sacrifice, revenge, and amoral spirituality. My fears of Rosie Perez, an actress I am not fond of in any way, were unfounded as she embodied Perdita perfectly with sadism and sizzle. James Gandolfini, as the Wile E Coyote like DEA agent Dumas, was also very good, perpetually abused and doggedly determined. \n\nDe La Iglesia handles with the film with great skill. The pacing is fast and furious. Every scene is alive with energy, and his composition is masterful. He has vastly improved from the flawed, yet entertaining, Day of the Beast, and demonstrates that his is a talent that continues to grow. Given the proper material and time, I can see him providing a enjoyable body of manic, surreal, and outrageous work."
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 10198,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6.3
+    },
+    "contentRating": "R",
+    "genre": [
+      "Action",
+      "Crime",
+      "Horror"
+    ],
+    "datePublished": "1997-10-31",
+    "keywords": "forced to watch rape,rape of a virgin,male nudity,male rape,paganism",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Dance with the Devil",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi3131048217",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzkzYWE1MzMtMDBjYS00Y2NiLTkyNDktZjg3ZGQ5YmUwZDM1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzkzYWE1MzMtMDBjYS00Y2NiLTkyNDktZjg3ZGQ5YmUwZDM1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi3131048217/",
+      "description": "(a.k.a. Perdita Durango)",
+      "duration": "PT1M45S",
+      "uploadDate": "2008-04-11T13:45:05Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0001609/",
+        "name": "Rosie Perez"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000849/",
+        "name": "Javier Bardem"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0189172/",
+        "name": "Harley Cross"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0407067/",
+        "name": "Álex de la Iglesia"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0000133/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0009576/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0895051/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0317510/",
+        "name": "Barry Gifford"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0346277/",
+        "name": "Jorge Guerricaechevarría"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0874093/",
+        "name": "David Trueba"
+      }
+    ],
+    "duration": "PT2H9M",
+    "@id": "https://www.imdb.com/title/tt0119879/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0223897/",
+    "name": "Pay It Forward",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjI3ODI5NDEwMl5BMl5BanBnXkFtZTYwNDYyMjU3._V1_.jpg",
+    "description": "A young boy attempts to make the world a better place after his teacher gives him that chance.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0223897/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "TheLittleSongbird"
+      },
+      "dateCreated": "2009-03-11",
+      "inLanguage": "English",
+      "name": "While not the most moving film I&apos;ve seen, this is still a solid, thoughtful and well-performed film!",
+      "reviewBody": "Pay It Forward is not as moving as a film like the Elephant Man and Fearless, but is still a solid and thoughtful account of a boy who wants to change the lives of those he loves.\n\nThe subject matter was well-realised, and that alone made it genuinely poignant. I have read some truly unfair reviews, that Pay It Forward is overly sentimental. No, it isn&apos;t. The ending was beautiful, and heart-rending too. When I saw this at school, I promised myself I wouldn&apos;t cry. But I did oddly enough, but it is very fair to say the ending was very moving, and added to the irony that the young boy Trevor, was unable to change his alcoholic mother&apos;s life. The scene in the hospital was also really sad, as I had genuine respect for all the characters.\n\nThere were unfortunately two flaws with the film. First of all, the script at times was a bit weak, especially when the three protagonists were not the focus. The other flaw was that sometimes the film&apos;s structure felt a little confused, but that&apos;s just me. Mimi Leder&apos;s direction was slick and attentive, the two ingredients you need to make this sort of film work.\n\nThe performances of the three leads were what held this film together. A wonderfully restrained Kevin Spacey played the disfigured teacher, and the scene where we find out what happened to him was shocking to say the least. Helen Hunt matched him beautifully as the mother, who tries to block out her painful life(prostitution, domestic abuse, an alcoholic family member) with drink, much to the despair of her son, Trevor. The real star is Haley Joel Osment, possibly the most talented child actor on film, who perfectly conveyed the 11 year old boy who wants to make a difference. Who wouldn&apos;t? All in all, a thoughtful and insightful film, that is genuinely moving. It isn&apos;t the most moving film ever, but it is definitely underrated. 8/10 Bethany Cox",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 8
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 125384,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 7.2
+    },
+    "contentRating": "PG-13",
+    "genre": [
+      "Drama"
+    ],
+    "datePublished": "2000-10-20",
+    "keywords": "boy,single mother,schoolteacher,kindness,teacher student relationship",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Pay It Forward",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi3617259801",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BODliZWE1YzAtYmVhZS00ZjdjLTk2ZTMtMWM1N2Y1MmFlZmRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODliZWE1YzAtYmVhZS00ZjdjLTk2ZTMtMWM1N2Y1MmFlZmRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi3617259801/",
+      "description": "Trailer",
+      "duration": "PT32S",
+      "uploadDate": "2008-04-11T15:22:34Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000228/",
+        "name": "Kevin Spacey"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0005286/",
+        "name": "Haley Joel Osment"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000166/",
+        "name": "Helen Hunt"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0001460/",
+        "name": "Mimi Leder"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0002663/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0090310/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0018522/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0404954/",
+        "name": "Catherine Ryan Hyde"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0228908/",
+        "name": "Leslie Dixon"
+      }
+    ],
+    "duration": "PT2H3M",
+    "@id": "https://www.imdb.com/title/tt0223897/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0062306/",
+    "name": "Stimulantia",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWMzMDVhOTctNzAyZi00OTA4LWFlZmEtMmE3NzE2M2I2YjZlXkEyXkFqcGc@._V1_.jpg",
+    "description": "A Swedish film in eight episodes by directors Ingmar Bergman, Vilgot Sjöman, Lars Görling, Hans Alfredson, Tage Danielsson, Hans Abramson, Jörn Donner, Arne Arnbom, Gustaf Molander.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0062306/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "ulf-635-523367"
+      },
+      "dateCreated": "2013-12-18",
+      "inLanguage": "English",
+      "name": "A Swedish film in eight episodes",
+      "reviewBody": "&quot;The discovery&quot; (In Chaplin&apos;s block) director Hans Abramson sublimates his need for sex and drugs in an exploration of childhood. The drama is set in London at # 3 Pownall Terrace , where Charles Chaplin spent his childhood. A slum neighborhood where the Music Hall tradition lives on, carried out by some singing and dancing girls. In Jörn Donners &quot;He She&quot; a loving couple in a hotel room makes thorough hygienic preparations for having sex. This foreplay take so long that there is no time for lovemaking. A sprawling collection of short films that never manage to fit in under the title of &quot;Stimulantia&quot;. Somewhere along the way this proud and unusual project drove in the ditch. However a must for Swedish film buffs.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 5
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 296,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 5.6
+    },
+    "genre": [
+      "Drama"
+    ],
+    "datePublished": "1967-03-28",
+    "keywords": "anthology film,portmanteau film,omnibus film,directed by several directors,collective filmmaking",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0009255/",
+        "name": "Hans Abramson"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0019244/",
+        "name": "Hans Alfredson"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0027683/",
+        "name": "Harriet Andersson"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0009255/",
+        "name": "Hans Abramson"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0019244/",
+        "name": "Hans Alfredson"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0036115/",
+        "name": "Arne Arnbom"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0050989/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0009255/",
+        "name": "Hans Abramson"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0019244/",
+        "name": "Hans Alfredson"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0036115/",
+        "name": "Arne Arnbom"
+      }
+    ],
+    "duration": "PT1H45M",
+    "@id": "https://www.imdb.com/title/tt0062306/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0310596/",
+    "name": "Aftermath",
+    "description": "Aftermath asks the question, &quot;What would happen if the man on the street really did try to stop a bank robber?&quot; The answer involves an insane florist, an irate fruit cart vendor, and a slimy lawyer named Uncle Stan.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0310596/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "grafxman"
+      },
+      "dateCreated": "2004-07-10",
+      "inLanguage": "English",
+      "name": "Pretty good flick",
+      "reviewBody": "The always gorgeous Sean Young plays an FBI agent in this cerebral thriller. I thought I would have a little difficulty accepting her as an FBI agent but I didn&apos;t. \n\nThis excellent and unusual thriller is very different from most of them. There are no car chases, fist fights, shoot outs etc. Well OK, towards the end there are a few. \n\nThis is a tension filled mystery is about catching a murderous and very illusive bomber. It also stars the inherently evil William B. Davis as her boss. He played the &quot;Lung Cancer&quot; guy in the X-Files.\n\nThere is one absolutely horrible goof near the end of the film. In one scene Sean young is holding her automatic pistol on a guy and the slide is locked back as if the gun has just fired its last shot!! It was OK in the next scene but GOOD GRIEF, that was totally ridiculous.\n\nAnyway, I gave it the nine I felt it deserved.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 9
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 174,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 4.6
+    },
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "datePublished": "2002-02-03",
+    "keywords": "witness,flashback,false accusation,cell phone,e mail",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000707/",
+        "name": "Sean Young"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0692874/",
+        "name": "Tim Post"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0382216/",
+        "name": "Christopher Heyerdahl"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0413465/",
+        "name": "Douglas Jackson"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0077842/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0392962/",
+        "name": "Mark Homer"
+      }
+    ],
+    "duration": "PT1H23M",
+    "@id": "https://www.imdb.com/title/tt0310596/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0051036/",
+    "name": "Sweet Smell of Success",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWY3NmM5MTMtODczZS00NmE5LTljOGEtNjFmYzVlZThmNDZmXkEyXkFqcGc@._V1_.jpg",
+    "description": "A powerful Broadway columnist coerces an unscrupulous press agent into breaking up his sister&apos;s romance with a jazz musician.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0051036/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "ccthemovieman-1"
+      },
+      "dateCreated": "2005-06-24",
+      "inLanguage": "English",
+      "name": "3 Good Reasons To Watch This Film",
+      "reviewBody": "There are three reasons that movie fans should check this film out, if you haven&apos;t seen it yet:\n\n1 - Outstanding dialog. I can&apos;t recall a film in which I heard so many clever film-noir lines as this one. Almost everyone in the movie has a unique way of expressing their feelings. It makes the movie one that you want to go back and HEAR again. Clifford Odets and Ernest Lehman wrote the screenplay and deserve special recognition as well as the people below.\n\n2 - Fabulous acting, led by the two male leads: Tony Curtis and Burt Lancaster. Curtis is the star of the film with many more lines than anyone else, and many consider this to be his greatest acting achievement. I have no quarrel with that. It&apos;s one of the finest acting jobs I&apos;ve ever witnessed by anyone. It&apos;s that good. \n\nLancaster is memorable and plays to his strengths as a tough guy, not only with his physical presence but his tactless and cutting verbal assaults. He has the best and most brutal lines in the film.\n\nThe minor characters in here, from the cop to the comedian to the cigarette girl to the young romantic couple are all top-notch.\n\n3 - The cinematography. A big name in the film business, James Wong Howe, more than lives up to his reputation. This is beautifully photographed and looks absolutely stunning on DVD. I have watched hundreds and hundreds of black-and-white films and this ranks with the best of them. He captured nighttime New York City as well as anybody ever has done.\n\n&quot;Well,&quot; you might ask, &quot;if this movie is so great, why haven&apos;t I heard more about it?&quot;\n\nMaybe because it never did well at the box office. It wasn&apos;t promoted a lot, from what I heard, and the storyline is not a pleasant one. Basically, this is about two immoral people who smear a nice guy so that it will ruin the romance between he and Lancaster&apos;s sister. \n\nLancaster plays an absolutely ruthless newspaper columnist who makes and breaks careers and Curtis plays his slimy press-agent who will do anything to please his powerful boss, including doing the worst of his dirty work.\n\nFurrther details of the film can be read by many of the other fine reviewers here on this website, so no need to go into that.\n\nI am not one who generally likes films that feature mostly nasty people but this was done so well that it fascinates me every time. A final tip of the hat to director Alexander Mackendrick. Why he wasn&apos;t given more films to direct is a mystery to me. Highly-recommended.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 9
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 37017,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 8
+    },
+    "contentRating": "Approved",
+    "genre": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "datePublished": "1957-07-04",
+    "keywords": "press agent,attempted suicide,musician,brother sister relationship,egomaniac",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Sweet Smell of Success",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi2405237785",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NTA2NDgzNF5BMl5BanBnXkFtZTgwNjI3MjczMzE@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NTA2NDgzNF5BMl5BanBnXkFtZTgwNjI3MjczMzE@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi2405237785/",
+      "description": "Trailer for the classic drama Sweet Smell of Success, starring Burt Lancaster and Tony Curtis. ",
+      "duration": "PT3M5S",
+      "uploadDate": "2010-03-25T13:56:16Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000044/",
+        "name": "Burt Lancaster"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000348/",
+        "name": "Tony Curtis"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0365893/",
+        "name": "Susan Harrison"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0533241/",
+        "name": "Alexander Mackendrick"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0136681/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0086377/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0083880/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0644048/",
+        "name": "Clifford Odets"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0499626/",
+        "name": "Ernest Lehman"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0533241/",
+        "name": "Alexander Mackendrick"
+      }
+    ],
+    "duration": "PT1H36M",
+    "@id": "https://www.imdb.com/title/tt0051036/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0132380/",
+    "name": "Olsenbanden og Dynamitt-Harry på sporet",
+    "image": "https://m.media-amazon.com/images/M/MV5BODgxYWI3OTctZjc5NC00YTA0LThkNDAtYzc2MWI4YjY0MzY3XkEyXkFqcGc@._V1_.jpg",
+    "description": "The Olsen Gang is robbed in Spain for the millions from their last coup. But Egon has a genius plan to get the money back by robbing the national railways for a gold transport.",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 883,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6.5
+    },
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "datePublished": "1977-10-11",
+    "keywords": "eighth part,money,olsenbanden,remake of danish film,train",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0649261/",
+        "name": "Arve Opsahl"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0125883/",
+        "name": "Carsten Byhring"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0391576/",
+        "name": "Sverre Holm"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0092202/",
+        "name": "Knut Bohwim"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0002295/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0050853/",
+        "name": "Erik Balling"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0046987/",
+        "name": "Henning Bahs"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0030467/",
+        "name": "Per A. Anonsen"
+      }
+    ],
+    "duration": "PT1H38M",
+    "@id": "https://www.imdb.com/title/tt0132380/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0240510/",
+    "name": "The Four Feathers",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYzOTMxNzg0MV5BMl5BanBnXkFtZTYwMjQwMDQ3._V1_.jpg",
+    "description": "A young British officer resigns his commission just before his regiment is sent to battle and soon receives four white feathers from his friends and fiancee as symbols of what they view as his cowardice.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0240510/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Holt344"
+      },
+      "dateCreated": "2021-03-04",
+      "inLanguage": "English",
+      "name": "The Four Feathers is brilliantly acted and beautifully shot, a good war drama",
+      "reviewBody": "The Four Feathers is directed by Shekhar Kapur from a screenplay from both Michael Schiffer and Hossein Amini. It&apos;s based on the novel of the same name that have been adapted to the big screen multiple of times and this is the first I&apos;ve seen, and I liked it. It&apos;s set during the British Army&apos;s Gordon Relief Expedition in Sudan, telling the story of Harry Faversham who is portrayed by Heath Ledger, who resigns his post just before battle and subsequently receives four white feathers from his friends and fiancee as symbols of what they believe to be his cowardice. He then tries to make things right and sets off on a journey. You understand his reasons and everything feels realistic, a well written character and a great performance.\n\nWes Bentley, Djimon Hounsou and Kate Hudson, Rupert Penry-Jones, Kris Marshall and Michael Sheen are among the cast, their performances are great. Many performances worth your while but Heath Ledger gives us an entertaining and possibly the greatest performance of the cast. Having one well written character in a film like this doesn&apos;t really work, it&apos;s easy to not care for anyone except for the main character and it shouldn&apos;t be like that. It isn&apos;t the actors fault as they&apos;re doing everything in their power but the problem is with the writers and script, the premise and story has potential though.\n\nIt&apos;s a beautiful looking film, no point to argue there. From the sets they created to the costume department, everything looks perfect and the cinematography is also amazing. But there&apos;s something missing in the film, like there&apos;s no heart in the writing and it feels too modern and not historical accurate. Many films take liberties I know that but I believe they could have done it more accurate if the director wanted it that way. What The Four Feathers got right was the impact war has on people and they succeeded in that.\n\nIt&apos;s a war drama that has its set of flaws but don&apos;t forget the many reasons why the film is worth watching. Cinematography, acting and its action sequences are some of the reasons why I&apos;m recommending this film.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 7
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 35854,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6.5
+    },
+    "contentRating": "PG-13",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "datePublished": "2002-09-20",
+    "keywords": "sudan,imperialism,male nudity,nudity,epic",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "The Four Feathers",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi2549219609",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGJhODg4Y2QtOTYyMS00YzczLTljNTgtMzdlMWVmZTM3MjU4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGJhODg4Y2QtOTYyMS00YzczLTljNTgtMzdlMWVmZTM3MjU4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi2549219609/",
+      "description": "Theatrical Trailer from Miramax",
+      "duration": "PT2M29S",
+      "uploadDate": "2008-04-11T16:43:05Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0005132/",
+        "name": "Heath Ledger"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0004747/",
+        "name": "Wes Bentley"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0005028/",
+        "name": "Kate Hudson"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0001408/",
+        "name": "Shekhar Kapur"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0023400/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0022594/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0029177/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0556571/",
+        "name": "A.E.W. Mason"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0771512/",
+        "name": "Michael Schiffer"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0024925/",
+        "name": "Hossein Amini"
+      }
+    ],
+    "duration": "PT2H12M",
+    "@id": "https://www.imdb.com/title/tt0240510/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt1519245/",
+    "name": "Agnosia",
+    "image": "https://m.media-amazon.com/images/M/MV5BODk1Mzg4NGItZmI5MS00NGUyLWE3OGYtNTY1NTM3MjY1ODk0XkEyXkFqcGc@._V1_.jpg",
+    "description": "Joana Prats suffers from agnosia, a strange neuropsychological illness that affects her perception. Although her eyes and ears are in perfect condition, her brain cannot interpret the stimuli she receives through them.&lt;br&gt;&lt;br&gt; As ...",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt1519245/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "paul_haakonsen"
+      },
+      "dateCreated": "2015-12-31",
+      "inLanguage": "English",
+      "name": "Disappointing...",
+      "reviewBody": "This movie was not all that I had expected from it, not by a long shot. And while the movie really had every opportunity to dish out something truly unique it just managed to muster a mediocre result.\n\nThe story is a strange combination of a love story and a woman&apos;s tragic story of suffering from a rare affliction that leaves her overly sensible to stimuli through all senses.\n\nI will say that it was the storyline that killed the movie for me, as the acting in the movie was quite good.\n\n&quot;Agnosia&quot; wasn&apos;t a particularly entertaining movie, although visually it was stunning. Lots of really nice details in costumes, sets, props and the like.\n\nI found &quot;Agnosia&quot; to be too long and not particularly satisfying for my interest in movies. As such, it scores a mere four out of ten stars rating from me.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 4
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 1541,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 5.4
+    },
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "datePublished": "2010-11-05",
+    "keywords": "conspiracy,female nudity,female rear nudity,female frontal nudity,female full frontal nudity",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0635330/",
+        "name": "Eduardo Noriega"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1050811/",
+        "name": "Félix Gómez"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0324409/",
+        "name": "Bárbara Goenaga"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1079001/",
+        "name": "Eugenio Mira"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0208630/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0233257/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0871121/",
+        "name": "Antonio Trashorras"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1079001/",
+        "name": "Eugenio Mira"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3678448/",
+        "name": "Coral Cruz"
+      }
+    ],
+    "duration": "PT1H45M",
+    "@id": "https://www.imdb.com/title/tt1519245/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0381681/",
+    "name": "Before Sunset",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+    "description": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse&apos;s book tour.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0381681/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Chrysanthepop"
+      },
+      "dateCreated": "2009-02-11",
+      "inLanguage": "English",
+      "name": "&apos;Baby, you are gonna miss that plane...I know&apos;",
+      "reviewBody": "Very few films can match up to the original first movies. &apos;Before Sunset&apos; is one such. This time Linklater has co-written the screenplay with Hawke and Delpy. Jesse and Celine reunite after nine years. Things haven&apos;t turned out the way they had expected but here&apos;s a chance. &apos;Before Sunset&apos; follows pretty much the same style as &apos;Before Sunrise&apos;. This one too is very much a conversational piece. Here the score is used to a minimal. During the end we hear some songs including Julie Delpy&apos;s beautiful &apos;My Waltz&apos;. The cinematography consists of more long shots than in the first movie. The film has a very mature feel to it. Of course Jesse and Celine are a lot more mature today and less idealistic than they were nine years ago. Linklater beautifully captures the love between these two characters as he walks us through the streets of Paris. Here too the dialogues are just as magical as in the first movie except that this time there&apos;s a melancholy about the things that could have been, the years that they could have been together. Both Ethan Hawke and Julie Delpy are terrific as ever and they deserve additional praise for the writing and Ms. Delpy for her singing. Overall, &apos;Before Sunset&apos; has everything that made &apos;Before Sunrise&apos; a phenomenal movie experience."
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 296919,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 8.1
+    },
+    "contentRating": "R",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "datePublished": "2004-07-30",
+    "keywords": "dialogue driven,brief encounter,sequel,enduring relationship,ambiguous ending",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Before Sunset",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi2813919513",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWVkNDNiNzMtN2VkNS00YjAwLTgzZjEtMTM4NmRkNTEyMTU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWVkNDNiNzMtN2VkNS00YjAwLTgzZjEtMTM4NmRkNTEyMTU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi2813919513/",
+      "description": "Home Video Trailer from Warner Home Video",
+      "duration": "PT2M14S",
+      "uploadDate": "2008-04-11T12:29:13Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000160/",
+        "name": "Ethan Hawke"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000365/",
+        "name": "Julie Delpy"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0229943/",
+        "name": "Vernon Dobtcheff"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000500/",
+        "name": "Richard Linklater"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0106448/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0040620/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0123642/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000500/",
+        "name": "Richard Linklater"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000365/",
+        "name": "Julie Delpy"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000160/",
+        "name": "Ethan Hawke"
+      }
+    ],
+    "duration": "PT1H20M",
+    "@id": "https://www.imdb.com/title/tt0381681/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt14855468/",
+    "name": "That Christmas",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWRkZjQwNDctOWY2Yy00ZTczLTg2ZTMtMDBlYTVhNGE1OGYzXkEyXkFqcGc@._V1_.jpg",
+    "description": "It&apos;s an unforgettable Christmas for the townsfolk of Wellington-on-Sea when the worst snowstorm in history alters everyone&apos;s plans, including Santa&apos;s.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt14855468/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Peri_Chips"
+      },
+      "dateCreated": "2024-10-19",
+      "inLanguage": "English",
+      "name": "You&apos;ll love it!",
+      "reviewBody": "This will be available for all on Netflix from the 4th of December i believe.\n\nI&apos;ve just watched this at the premiere and its beautifully made and perfect for watching with the family to leave you all with that super feel good factor.\n\nLovely storytelling, quick, witty and heart warming.\n\nThe focus is on a small town in the UK by the sea side, which has a small community, all with their own sadness&apos;s and mini back stories. The lighthouse man played by Bill is also focused on and he comes across old and in his ways of tradition of the town on what is done annual building up to the end of the year and how this year it seems to all be going wrong for him too.\n\nI wont get any further into it but the story quickly picks up place and explodes with life and most importantly warmth and love.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 10
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 5298,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6.8
+    },
+    "contentRating": "PG",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "datePublished": "2024-12-04",
+    "keywords": "based on children&apos;s book,christmas,holiday,friend,cgi animation",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Official Trailer",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi1017170201",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjdjY2IwN2MtMTZmMy00ZDhiLWIzYTUtZTE3NGVlY2U2MTQ4XkEyXkFqcGdeQXNvbG5vbXM@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjdjY2IwN2MtMTZmMy00ZDhiLWIzYTUtZTE3NGVlY2U2MTQ4XkEyXkFqcGdeQXNvbG5vbXM@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi1017170201/",
+      "description": "The story of a Christmas that needed more than just a sack full of fixing.",
+      "duration": "PT2M15S",
+      "uploadDate": "2024-10-28T15:25:03.668Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0631490/",
+        "name": "Bill Nighy"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0004051/",
+        "name": "Brian Cox"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm7960400/",
+        "name": "Guz Khan"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm2259362/",
+        "name": "Simon Otto"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0105115/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0477951/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0193485/",
+        "name": "Richard Curtis"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm2241480/",
+        "name": "Peter Souter"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1485603/",
+        "name": "Andrew Dawson"
+      }
+    ],
+    "duration": "PT1H31M",
+    "@id": "https://www.imdb.com/title/tt14855468/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0245712/",
+    "name": "Amores perros",
+    "alternateName": "Amores Perros",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmUzNDI1MDYtNmIxNC00NjczLTk0ZDEtYWFkZDcxMWVhYTEwXkEyXkFqcGc@._V1_.jpg",
+    "description": "An amateur dog fighter, a supermodel, and a derelict assassin, all separately struggling to find love, find their lives transformed by a devastating car wreck in Mexico City.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0245712/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "the red duchess"
+      },
+      "dateCreated": "2001-05-22",
+      "inLanguage": "English",
+      "name": "A smartly modern elegy.",
+      "reviewBody": "There is a character in &apos;Amores perros&apos; who looks like Karl Marx.  He is a tramp and an assassin, a good bourgeois who one day, Reggie Perrin-like, abandoned his family, and, un-Reggie Perrin-like, joined the Sandanistas in an effort to create a better world, earning 20 years in prison for his troubles.  Walking the streets with a creaky cart and a gaggle of mangy dogs, he was found by the policeman who jailed him, who gave him a dingy place to live, food, and the odd, non-official contract.\n\nEl Chivo is the soul of the film, the missing link, both in appearance (a man called &apos;The Goat&apos;, who has rejected the civilities of society and lives a beast-like existence with his dogs, amongst the ruins of civilisation), and narrative function.  With intricate structure, &apos;Amores perros&apos; tells three stories, one of underclass Mexican life, where survival depends on what New Labour calls &apos;illegal economies&apos; (dog-fighting, bank-robbing etc.), where bright young women are stifled and degraded by thoughtless pregnancies and brutal marriages, where single mothers depend (and usually can&apos;t depend) on shiftless sons for subsistence; and this world&apos;s mirror opposite, the world of the media, of celebrity, of models and magazine editors, of daytime TV, perfume advertising campaigns and bright apartments.  Family life is central here too, although in this case it is torn apart by more pleasanntly bourgeois ailments like ennui and dissatisfaction.\n\nThese two stories are mediated by the narrative of El Chivo, the man who left one of these worlds for the other, but who still negotiates the two, through his search for the daughter he left as a toddler, and in his &apos;job&apos;, wiping out businessman.  If Mexico is emerging as part of the super-confident globalism of high-capitalism, than El Chivo is the grizzly sore thumb, the ex-Sandinista, the Marx lookalike, the man who said no, the drop-out, the forgotten, the depleted spirit of the Left,  happily killing and torturing the servants of the new economic regime.\n\nThere is something Biblical about his hirsute ascetism too, presuming to judge the &apos;Cain and Abel&apos; half-brothers, one an adulterer, the other with a contract out on his sibling, another example of family gone badly wrong. This, the bleak funeral and grave scenes, and Octavia&apos;s functional crossing himself every time he passes an icon on the landing, are the sole residual elements of religion in a society once ostentatiously religious.\n\nExcept for the director.  Like Paul Thomas Anderson in &apos;Magnolia&apos;, although to a less self-conscious degree, Gonzales Inarritu is the God of his film, intricately creating the structure that links his characters and their different environments.  These are negative connections, however, which work against the idea of coherent meaning in life - contact usually results in destruction (physical, material, spiritual), or diminishing.\n\nHe is also an Old Testament god, punishing those who would get too confident with their future plans or their seemingly inviolable present success - the gains of capitalism are prey to the violent whims of chance: Gonzalez Inarritu doesn&apos;t need frogs to shake a rigid society or mindset.\n\nMoral change is linked to physical change - being beaten up, losing a leg, cutting hair.  The punning title, with its reference to the dog-eat/fight-dog nature of modern life, and its general unsatisfactoriness, also gives the film its Biblical feel, the idea of Mexico as an asphalt desert, or a rubbish heap, with all these scrawny mutts scavenging the remains.\n\n&apos;Amores perros&apos; shares  the sickly, bleached near-monochrome look of many recent crime films, like &apos;Chopper&apos; or &apos;Bleeder&apos;.  But where the heightened mise-en-scene in those works were expressionistic projections of their protagonists&apos; psychosis, here it&apos;s part of a controlling world-view, the universal consciousness that creates, connects and destroys.\n\n The three stories, though connected narratively and symbolically, are mutually distinct - the first is an exhilirating mix of violent gangster film and frustrated romance; the second is like a short story (the screenwriter is a novelist), a figurative plot where movement is through image, symbol and idea, rather than film narrative; the third is a kind of spiritual journey, with an appropriately Biblical (or Wim Wenders-like) openness.\n\n&apos;Amores perros&apos; is not quite as amazing as its admirers claim - it says more about contemporary cinema that a film only has to hold your interest for it to be a masterpiece - but it is consistently enthralling, and, despite all the stylistic tics and brutal violence, bracingly humanist.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 8
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 257341,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 8
+    },
+    "contentRating": "R",
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "datePublished": "2001-04-13",
+    "keywords": "multiple perspectives,mexico city,dog fight,nonlinear timeline,interlinked stories",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Tráiler [OV]",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi2171189785",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGI5M2EzNDMtYmQ1My00ZDBmLWFiODEtYWZiOTkyOWVkM2UwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGI5M2EzNDMtYmQ1My00ZDBmLWFiODEtYWZiOTkyOWVkM2UwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi2171189785/",
+      "description": "Original trailer - do not delete without contacting gamazoa -",
+      "duration": "PT1M51S",
+      "uploadDate": "2019-02-15T17:56:45.162Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0248408/",
+        "name": "Emilio Echevarría"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0305558/",
+        "name": "Gael García Bernal"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0865949/",
+        "name": "Goya Toledo"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0327944/",
+        "name": "Alejandro G. Iñárritu"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0003956/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0007410/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0037247/",
+        "name": "Guillermo Arriaga"
+      }
+    ],
+    "duration": "PT2H34M",
+    "@id": "https://www.imdb.com/title/tt0245712/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0028816/",
+    "name": "Easy Living",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjhhOTc0ZTctYTZmYy00OGQ2LTg0NDYtYmRjNWRjZWQxNzI0XkEyXkFqcGc@._V1_.jpg",
+    "description": "When a wealthy banker throws his wife&apos;s expensive fur coat off a roof and it lands on the head of a stenographer, everyone assumes she is his mistress and has access to his millions.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0028816/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "in2flyingfilms"
+      },
+      "dateCreated": "2005-07-31",
+      "inLanguage": "English",
+      "name": "A great screwball comedy",
+      "reviewBody": "Easy Living ranks among the funniest screwball comedies of all time. It is Preston Sturges at his best with manic energies and surprising twists galore. This delightfully original comedy of misunderstandings pays homage to Oliver Goldsmith and Richard Sheridan with a touch of P.G. Wodehouse thrown in for good measure. All of the characters, even the peripheral ones, are richly rendered with motivations we can instantly understand and empathize with. The principals -- Jean Arthur, Edward Arnold, and Ray Milland -- are perfectly cast and have a field day with their roles. Arthur in particular is adorable as, bewildered but good hearted, she deals with an inexplicable turn of events that throws her life upside down. Just as exquisitely acted are the supporting roles of legendary character actors like Luis Alberni and Franklin Pangborn. The net result is an uproarious film that makes you laugh all over again when you think of it after the fact.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 10
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 4306,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 7.5
+    },
+    "contentRating": "Approved",
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "datePublished": "1937-07-16",
+    "keywords": "screwball comedy,mix up comedy,stock market manipulation,gay coded character,hat",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000795/",
+        "name": "Jean Arthur"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0036427/",
+        "name": "Edward Arnold"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0001537/",
+        "name": "Ray Milland"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0500552/",
+        "name": "Mitchell Leisen"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0023400/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0002545/",
+        "name": "Preston Sturges"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0143837/",
+        "name": "Vera Caspary"
+      }
+    ],
+    "duration": "PT1H28M",
+    "@id": "https://www.imdb.com/title/tt0028816/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0217998/",
+    "name": "Andy Warhol and his Clan",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0217998/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "mattinsac67"
+      },
+      "dateCreated": "2005-12-30",
+      "inLanguage": "English",
+      "name": "Andy Warhol ,While being a wonderful artist",
+      "reviewBody": "On Andy: While being a progressive and innovative and excellent artist, was also a voyeuristic exploitive, man,who exploited others to his own gain and did it well. An excellent example was Edie Sedgwick. A fragile but beautiful socialite who should have gone straight to Vogue and stayed there, took a wrong turn and met ANdy Warhol, who made her The &quot;Girl of 1965&quot;. SHe starred in his amateurish films for about 2 years and went downhil from there due to her addiction to speed as were others at &quot;The Factory&quot; when they had a disagreement about her being paid for her movies (which he made a fine living off of) she left the factory. One comment he actually made was &quot;I wish we could make a movie with Edie committing suicide&quot; He also had another &quot;superstar&quot;thrown down the stairs (ANdrea Feldman) who later took a fatal jump out the window. He was a vapid unfeeling man with I&apos;m sure his own personal demons. Is it any wonder someone shot him? His works are very interesting but that&apos;s an artist for you."
+    },
+    "genre": [
+      "Documentary"
+    ],
+    "keywords": "subject name in title",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0912238/",
+        "name": "Andy Warhol"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0198072/",
+        "name": "Joe Dallesandro"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0462990/",
+        "name": "Bert Koetter"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0462990/",
+        "name": "Bert Koetter"
+      }
+    ],
+    "duration": "PT46M",
+    "@id": "https://www.imdb.com/title/tt0217998/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0086541/",
+    "name": "Videodrome",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI0NDVlMjMtNWI5Yi00ZWM0LTg4NWUtNGRkYjU5NTBkZjVkXkEyXkFqcGc@._V1_.jpg",
+    "description": "A programmer at a Toronto TV station that specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0086541/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "dee.reid"
+      },
+      "dateCreated": "2005-09-22",
+      "inLanguage": "English",
+      "name": "&quot;Videodrome&quot; - Cronenberg takes on the media",
+      "reviewBody": "It takes the slightest peeks at his career to figure out David Cronenberg (&quot;The Fly,&quot; &quot;Dead Ringers,&quot; &quot;Naked Lunch,&quot; &quot;The Dead Zone,&quot; the upcoming &quot;A History of Violence&quot;) is a director who is not to be toyed with. I forgot to add in his 1983 horror movie &quot;Videodrome,&quot; and there is a reason for that, which I&apos;ll talk about later. His works provoke intelligent thought, and terrify those who can&apos;t comprehend it. His films stimulate, offend, and move those who care to watch them with an open mind.\n\nAllow me to (try) explain. I won&apos;t bother to go into detail about the plot. A sleazy, lowlife TV producer named Max Renn (James Woods) rapidly becomes obsessed with an unusual television signal, which in turn begins to warp his perceptions of reality. Get it? Nah, of course you don&apos;t. You&apos;re not going to let a one-sentence plot description and, if you own the Criterion Collection DVD, the three essays included deter you from watching it, are you?\n\nYou&apos;re also not going to let scenes of grisly torture, unspeakable violence, murder, &quot;flesh guns,&quot; human VCRs, exploding cancer-deaths (poor Leslie Carlson as Barry Convex), pulsating video cassettes, Deborah Harry in S&amp;M and morphing televisions turn you away, are you? What&apos;s more, you&apos;re not going to let Woods&apos;s effectively &quot;wooden&quot; performance here (his sticking his face into a &quot;living&quot; television) turn you away either?\n\nI won&apos;t even try to pretend I understood what was going through Cronenberg&apos;s mind when he wrote and directed this picture. I also won&apos;t pretend I understood the essays included with the DVD (and I don&apos;t think the writers did either). It&apos;s warped, it&apos;s perverted, it&apos;s depraved, and it&apos;s insanely intriguing and fascinating. The masses are frightened by &quot;Videodrome&quot; and with good reason. &quot;Videodrome&quot; is Cronenberg&apos;s dastardly take on mass-media consumption during a time when television was afraid... afraid to be real. Media violence had not yet become a major issue in America and hypocritical politicians weren&apos;t condemning it. But keep in mind this film was made in &apos;83, years before the mind-blowing reality-morphing of &quot;The Matrix&quot; (1999).\n\nThere&apos;s a little more that I think I can get away with in describing the plot, and Renn eventually traces the signal to Pittsburgh, and is introduced to the station&apos;s enigmatic programmer Brian O&apos;Blivion (Jack Creley) and his daughter Bianca (Sonja Smits). He learns of the bizarre nature surrounding Videodrome, and the fate of those of who watch it. As he becomes more and more obsessed, he finds it nearly impossible to turn it off, or turn away. Then those mutations and hallucinations Cronenberg is famous for start happening and when that does, things become nasty and the queasy may want to keep a finger on the fast-forward button. It&apos;s no secret Cronenberg loves torturing his protagonists and here, the &quot;new flesh&quot; wants to live long and Woods has the nice warm body perfect for it - he becomes a literal media assassin with a vaginal slit in his stomach that doubles as a programmable VCR and also has a handgun fused to his wrist - he&apos;s a virtual slave to Videodrome.\n\nLastly, the eerie, driving score by Howard Shore swells up during the film&apos;s most intense and surreal moments, the most lovely being Woods&apos;s lovemaking with his television. I always watch Cronenberg films at least partially for Shore&apos;s music. Now I know why Cronenberg selects him for his soundtracks.\n\n&quot;Videodrome,&quot; I think, has a lot more relevance today than it did 22 years ago. It&apos;s more visceral than gross, is quite brilliant, and doesn&apos;t spare us graphic violence and gore. It&apos;s alive, it&apos;s &quot;Videodrome.&quot;\n\n8/10",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 8
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 106564,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 7.2
+    },
+    "contentRating": "R",
+    "genre": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "datePublished": "1983-02-04",
+    "keywords": "hallucination,surrealism,body horror,suicide,gore",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Videodrome",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi2063270169",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDAxYmI0YzEtZTFmNi00NmUwLWJjYWYtMzAzOTMyYmM5OGNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDAxYmI0YzEtZTFmNi00NmUwLWJjYWYtMzAzOTMyYmM5OGNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi2063270169/",
+      "description": "Theatrical Trailer from Universal Pictures",
+      "duration": "PT1M13S",
+      "uploadDate": "2008-04-11T17:15:14Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000249/",
+        "name": "James Woods"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0001323/",
+        "name": "Debbie Harry"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0810500/",
+        "name": "Sonja Smits"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000343/",
+        "name": "David Cronenberg"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0006008/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0051074/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0065335/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000343/",
+        "name": "David Cronenberg"
+      }
+    ],
+    "duration": "PT1H27M",
+    "@id": "https://www.imdb.com/title/tt0086541/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt1532545/",
+    "name": "New York November",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYyODMyMDIyOF5BMl5BanBnXkFtZTcwMjkxNjY4Ng@@._V1_.jpg",
+    "description": "1999. A few days before Thanksgiving. After a disastrous bank robbery attempt in Los Angeles fails, Bruce McGray hits rock bottom. He longs to leave everything behind and start a new life. Maybe even in the place in South America ...",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt1532545/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "kosmasp"
+      },
+      "dateCreated": "2010-12-31",
+      "inLanguage": "English",
+      "name": "It definitely feels like 12 years",
+      "reviewBody": "But 12 years of your own life passing by, while you seem to be unable to stop it (especially if you did not watch it on Disc, but on the big screen, where you do not have the remote control at hand, to fast forward the movie).\n\nYes the movie has quite nice themes and its psychological depths seem rich. The problem is: They only seem rich. Pretending and stretching the paper thin plot to such lengths is almost as if you are trying to punish your viewers. Is it our fault that the makers needed 12 years to finish this? Although the question to ask me or any other viewer could also be: Why stay and watch it then? Well I never give up on a movie halfway through. And though there is no physical pain involved in watching one movie, it definitely reached a level of annoyance that only a few movies have reached so far.\n\nThe movie tries to be clever, but in my eyes never achieves it. The hand-held style is not working either. It does add just another level of annoyance to the whole thing. But there is another side to the coin ... another review to be more apt ... read that too and make up your mind, if you really want to risk watching this.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 1
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 107,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 5.1
+    },
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "datePublished": "2011-11-24",
+    "keywords": "book,diary,photograph,tape recorder,sketch",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1853358/",
+        "name": "Matthew Mark Meyer"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3655281/",
+        "name": "Claudia Vick"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3655791/",
+        "name": "Sal Giorno"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3660295/",
+        "name": "Gerhard Fillei"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3655743/",
+        "name": "Joachim Krenn"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0287166/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0919813/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3660295/",
+        "name": "Gerhard Fillei"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3655743/",
+        "name": "Joachim Krenn"
+      }
+    ],
+    "duration": "PT1H45M",
+    "@id": "https://www.imdb.com/title/tt1532545/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0154506/",
+    "name": "Following",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjZiMTI5OGItZWJhMC00OGRiLTk1NzAtYmNmZTM0MzFmNGM0XkEyXkFqcGc@._V1_.jpg",
+    "description": "A young writer who follows strangers for material meets a thief who takes him under his wing.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0154506/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "DennisLittrell"
+      },
+      "dateCreated": "2003-02-14",
+      "inLanguage": "English",
+      "name": "Stalking as a hobby; burglary as a thrill",
+      "reviewBody": "In this intriguing noir thriller (looking like the Forties, but with a  psychology befitting the Nineties), Director Christopher Nolan employs  a number of techniques he would perfect in his internationally  acclaimed Memento (2000), most notably scenes presented out of time  sequence for effect, and a naive protagonist taken advantage of by  others.  The film opens with &quot;Bill, the Innocent&quot; (as I might dub him), played  by Jeremy Theobald, trying to explain to someone, perhaps a social  worker, perhaps even a police inspector (John Nolan), why he took up  following people just for the fun of it. He doesn&apos;t just follow women,  he points out.  He&apos;s not a stalker, as such. He&apos;s just curious. He&apos;s an intriguing and  sympathetic character, a Brit writer with a lot of time on his hands  who seems something of a throwback to an earlier age with his clanking  manual typewriter and the photo of a pursed-lips Marilyn Monroe on the  wall of his shabby apartment.  Things began to go wrong for him, he further explains, when he broke  some of his &quot;following rules&quot; and got too close to his prey. What he  doesn&apos;t know and what we don&apos;t know yet, is that his clumsy following  technique has allowed him to unwittingly become the followed himself.  Enter a juicy blonde (Lucy Russell) walking down some steps from her  apartment. (This scene is out of sequence as far as chronological time  goes, but psychologically speaking, her appearance signals his  entanglement). Enter now a scheming, sophisticated psychopathic  thrill-seeker named Cobb (Alex Haw) who entices Bill with his  (apparent) practice of burglary just for the powerful feeling one gets  from invading the sanctity of another&apos;s life.  Although justification for the temporal inversions here is not as  clearly established as in Memento, nonetheless the technique works  well, and Nolan provides us with a clever ending that sneaks up on us  and makes in a few seconds all that went before clear. Or mostly clear.  You might want to rewind and view the first few minutes of the film,  and then everything should be clarity.  This low-budget, black and white, deliciously ironic little film (71  minutes) marked the auspicious debut of a film maker who has already  made quite a name for himself, not only with the aforementioned  Memento, but with Insomnia (2002). It will be interesting to see what  Nolan does next.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 8
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 104266,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 7.4
+    },
+    "contentRating": "R",
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "datePublished": "1999-11-05",
+    "keywords": "writer,burglar,nonlinear timeline,robbery,burglary",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Following",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi948504089",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTU0MTg5NjY2OV5BMl5BanBnXkFtZTcwOTk1MDc2Mw@@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTU0MTg5NjY2OV5BMl5BanBnXkFtZTcwOTk1MDc2Mw@@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi948504089/",
+      "description": "A young writer who follows strangers for material meets a thief who takes him under his wing.",
+      "duration": "PT1M31S",
+      "uploadDate": "2010-07-20T08:16:07Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0857458/",
+        "name": "Jeremy Theobald"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0369918/",
+        "name": "Alex Haw"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0751301/",
+        "name": "Lucy Russell"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0634240/",
+        "name": "Christopher Nolan"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0070518/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0147954/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0634240/",
+        "name": "Christopher Nolan"
+      }
+    ],
+    "duration": "PT1H9M",
+    "@id": "https://www.imdb.com/title/tt0154506/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0059056/",
+    "name": "Coplan FX 18 casse tout",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTdkNGJkZDktMTAwZC00MDZjLTkzY2YtYzI2ZTYwNWEwN2UzXkEyXkFqcGc@._V1_.jpg",
+    "description": "A French agent, who is sent to save an atomic scientist, uncovers a plot by terrorists and a secret atomic site in Turkey.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0059056/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "RodrigAndrisan"
+      },
+      "dateCreated": "2021-05-25",
+      "inLanguage": "English",
+      "name": "Turkish action.",
+      "reviewBody": "If you like fights with jazz music in the background, this is the film for you! Coplan is the French equivalent of Bond, James Bond. He doesn&apos;t drink Vodka Martini, he prefers Whiskey. You&apos;ll see a spectacular pursuit, Coplan on a motorcycle with the front wheel having a broken tire, shot with a machine gun by a hot brunette from a red sports car. The last half hour is the most exciting, with action in a cave similar to one of the Bond originals. Although the actual action is slow and predictable, the scenery is impressive.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 6
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 101,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 5.1
+    },
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "datePublished": "1965-10-06",
+    "keywords": "eurospy,number 18 in title,digit in title,secret,based on novel",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0943751/",
+        "name": "Richard Stapley"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0544275/",
+        "name": "Robert Manuel"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0163209/",
+        "name": "Jany Clair"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0292720/",
+        "name": "Riccardo Freda"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0136688/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0004597/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0004920/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0448610/",
+        "name": "Paul Kenny"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1391324/",
+        "name": "Claude-Marcel Richard"
+      }
+    ],
+    "duration": "PT1H35M",
+    "@id": "https://www.imdb.com/title/tt0059056/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt5822536/",
+    "name": "Paddington in Peru",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzMyNWZlYmYtZDgxMC00ZTU3LWFiYzctNGE0ZDc0OTlhZTRlXkEyXkFqcGc@._V1_.jpg",
+    "description": "Paddington returns to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt5822536/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "masonsaul"
+      },
+      "dateCreated": "2024-11-10",
+      "inLanguage": "English",
+      "name": "Weakest of the three but still delightful",
+      "reviewBody": "Paddington in Peru is comfortably the weakest of the trilogy with the absence of Paul King and Simon Farnaby definitely being felt but this is still a delightful third instalment that loses none of the heart and brings everything set up in the first act to a neat conclusion thanks to another satisfying third act. It&apos;s a consistently funny adventure which never forgets the immigrant story at the heart of this as Paddington struggles to balance his past and future.\n\nBen Whishaw remains endlessly precious with another pitch perfect vocal performance so Paddington continues to be a much needed cinematic balm. Hugh Bonneville is really funny as he tries to be more courageous and Emily Mortimer is a worthy replacement even if Sally Hawkins is missed. Antonio Banderas gets to do everything Dial of Destiny stopped him doing, having a ball whilst he does it and Olivia Colman as a suspicious singing nun is another big highlight.\n\nDougal Wilson&apos;s direction brings enough whimsy through carrying over ideas from the predecessors and some new inventive ones as well as a few well placed references to other films. There&apos;s a lot of slapstick here as usual and it always escalates in unexpected ways. The CGI is pushed like never before, making it all the more impressive that the effects that bring Paddington to life rarely falter despite the sheer amount of CG bears this time.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 8
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 3470,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6.8
+    },
+    "contentRating": "PG",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "datePublished": "2024-11-08",
+    "keywords": "paddington bear character,sequel,third part,live action cgi hybrid,bear",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Official Teaser",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi34194969",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTI5NzJiNDktNWE0OC00ZjQ0LWI5N2MtZDYwOWQ3YmM2NTdhXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTI5NzJiNDktNWE0OC00ZjQ0LWI5N2MtZDYwOWQ3YmM2NTdhXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi34194969/",
+      "description": "Paddington returns to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown Family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey.",
+      "duration": "PT1M14S",
+      "uploadDate": "2024-08-06T15:25:31.947Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0095017/",
+        "name": "Hugh Bonneville"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0607865/",
+        "name": "Emily Mortimer"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0924210/",
+        "name": "Ben Whishaw"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm2756007/",
+        "name": "Dougal Wilson"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0047476/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0050868/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0222021/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0123666/",
+        "name": "Mark Burton"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3202466/",
+        "name": "Jon Foster"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm2023623/",
+        "name": "James Lamont"
+      }
+    ],
+    "duration": "PT1H46M",
+    "@id": "https://www.imdb.com/title/tt5822536/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0020876/",
+    "name": "Feet First",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjFhYjIyNjMtNDc4Yi00N2VkLTk5ZGYtNDc4ZDE2YWI2M2NkXkEyXkFqcGc@._V1_.jpg",
+    "description": "An ambitious shoe salesman who unknowingly meets his boss&apos;s daughter and tells her he is a leather tycoon has to try to hide his true circumstances.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0020876/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "zetes"
+      },
+      "dateCreated": "2012-07-30",
+      "inLanguage": "English",
+      "name": "Mediocre Harold Lloyd, with some good moments",
+      "reviewBody": "Harold Lloyd&apos;s second talkie, after Welcome Danger (which, if I recall correctly, was only part talkie). It&apos;s okay, but a step down from Welcome Danger. As far as I&apos;m concerned, Lloyd&apos;s The Milky Way from 1933 is among his best films, so I certainly don&apos;t think he lost his talent after the silent era. Feet First comes across as desperate at times, mostly during the final act, which re-creates the climax of Safety Last!, with Lloyd dangling off the side of a skyscraper. In this film, Lloyd is a lowly shoe salesman who is mistaken for a leather baron by his employer, for whose daughter (Barbara Kent, star of Pal Fejos&apos; Lonesome) he has fallen. There are some amusing sketches, but nothing particularly great.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 6
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 1225,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6.7
+    },
+    "contentRating": "Passed",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "datePublished": "1930-11-08",
+    "keywords": "pre code,b movie,lie,coincidence,jealousy",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0516001/",
+        "name": "Harold Lloyd"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0448661/",
+        "name": "Barbara Kent"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0574743/",
+        "name": "Robert McWade"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0115669/",
+        "name": "Clyde Bruckman"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0516001/",
+        "name": "Harold Lloyd"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0137892/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0340599/",
+        "name": "John Grey"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0169879/",
+        "name": "Alfred A. Cohn"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0115669/",
+        "name": "Clyde Bruckman"
+      }
+    ],
+    "duration": "PT1H33M",
+    "@id": "https://www.imdb.com/title/tt0020876/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt1637712/",
+    "name": "Pig",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWJkNmQ2ZGItNmYwYy00YTMwLTg1MTMtNTNkNjkxNTUxYmU2XkEyXkFqcGc@._V1_.jpg",
+    "description": "The day in the life of a psychotic hillbilly and his captives, innocent people he has taken prisoner to indulge his violent fantasies.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt1637712/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "anguspage12"
+      },
+      "dateCreated": "2010-04-29",
+      "inLanguage": "English",
+      "name": "Umm.....yeah....",
+      "reviewBody": "So...usually, before I get into what I liked and didn&apos;t like about a movie when I review it, I usually give a plot summary to show others what it&apos;s about. But, in this case, I cant give one because, frankly, there IS no plot\n\nNow, I have good news and bad news about this film. The good news is that this film goes above and beyond the normal setting for films going &quot;too far&quot;. The bad news? There&apos;s not much else to this film.\n\nA thing that I have to praise this film for is it&apos;s one on-going shot that&apos;s used for almost the entire film. If you want to become a director, cinematographer, or pretty much anything else to do with film, you should see this film purely on that.\n\nBut, the major down-side to this film is that it&apos;s just plain boring at times. I&apos;m not one of these conservative people who will hate this film because &quot;It&apos;s too terrible&quot; or &quot;It will corrupt the kids&quot; or anything like that. I mainly don&apos;t like it that much because it&apos;s just plain boring at times. Your waiting for the film to move on at points, but it never really does.\n\nMaybe that was the director&apos;s intentions or the actors intentions (because you can tell that this film is mainly improv), but whatever it is, it&apos;s not something that you should really see OTHER than the technical stand-point.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 4
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 432,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 3.7
+    },
+    "contentRating": "Not Rated",
+    "genre": [
+      "Horror"
+    ],
+    "datePublished": "2010-04-17",
+    "keywords": "long take,single take,one word title,animal in title",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0397110/",
+        "name": "Andrew Howard"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1298458/",
+        "name": "Guy Burnet"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3147186/",
+        "name": "Lorry O&apos;Toole"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0556573/",
+        "name": "Adam Mason"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0301740/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0859298/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0077582/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0397110/",
+        "name": "Andrew Howard"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0556573/",
+        "name": "Adam Mason"
+      }
+    ],
+    "duration": "PT1H10M",
+    "@id": "https://www.imdb.com/title/tt1637712/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0023759/",
+    "name": "Ann Vickers",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMyZjMyNzUtYmIyNS00OTgyLWIyMTAtNzExOWJmZTAxMmIxXkEyXkFqcGc@._V1_.jpg",
+    "description": "A prison reformer and a controversial judge fall in love and have a child out of wedlock.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0023759/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "BrentCarleton"
+      },
+      "dateCreated": "2007-12-28",
+      "inLanguage": "English",
+      "name": "A rare mis-step for Miss Dunne",
+      "reviewBody": "What can have been on Irene Dunne&apos;s mind when she accepted the role in this distasteful account of a woman of negotiable morals? Certainly, the Irene Dunne of the 1940&apos;s, whose reputation as a faithful Roman Catholic who publicly abhorred smut, and shunned any film scripts or Hollywood society, that might be even be remotely construed as corrupting public morals--would never have become associated with such a dubious project as this.\n\nPerhaps, New York&apos;s Cardinal Spellman, in his private audience with her, gave her a good dressing down over this role? That we will likely never know, inasmuch as she never spoke of it in later years, though she did denounce her morally suspect, (though quite successful) 1932 film, &quot;Back Street&quot; as &quot;trash&quot;.\n\nCertainly by the time she received the distinguished St. Robert Bellarmine Award in 1965 for exemplary public Catholicism, &quot;Ann Vickers&quot; was no longer recalled by the general public.\n\nSuffice it to say that &quot;Ann Vickers&quot; works neither as entertainment or social commentary.\n\nMiss Dunne&apos;s role as an adulterous social worker, who sleeps around, (between reforming prisons and writing a best seller on correctional rehabilitation) doesn&apos;t dovetail with her temperament or on screen demeanor, and one keeps suspecting that the whole thing is a kind of tongue in cheek gag, (what else can we think when we witness a montage of Miss Dunne&apos;s sympathetic beatific gaze superimposed over a shot of a female prisoner being scourged?) By films end, she has renounced careerism in favor of marriage, (to crusty convict Walter Huston no less--and what kind of lunacy would ever conceive of pairing these two romantically?) \n\nIrene Dunne completists will no doubt wish to see this curiosity, if only for the chance to hear her promise to rehabilitate a cocaine addict under her charge: &quot;I&apos;m going to get you off the snow cold turkey&quot; !!! \n\nWell, if nothing else such sordid goings on, do present her light years from her usual milieu of operatic trills, furbellowed chiffon and strawberry phosphates--cocaine addiction not being the first subject one associates with the irreproachable Miss Dunne.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 3
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 664,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6.2
+    },
+    "contentRating": "Passed",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "datePublished": "1933-10-06",
+    "keywords": "f rated,damsel in distress,deception,grief,song",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0002050/",
+        "name": "Irene Dunne"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0404158/",
+        "name": "Walter Huston"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0619261/",
+        "name": "Conrad Nagel"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0188669/",
+        "name": "John Cromwell"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0041421/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0613848/",
+        "name": "Jane Murfin"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0507760/",
+        "name": "Sinclair Lewis"
+      }
+    ],
+    "duration": "PT1H16M",
+    "@id": "https://www.imdb.com/title/tt0023759/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt1988683/",
+    "name": "Koundi et le Jeudi national",
+    "description": "In the Cameroon village of Koundi, the inhabitants have established a &quot;national Thursday&quot;. Once day a month, they will work on creating a cocoa plantation. Village life through the prism of self-management.",
+    "genre": [
+      "Documentary"
+    ],
+    "datePublished": "2011-02-03",
+    "keywords": "village",
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm4543836/",
+        "name": "Ariane Astrid Atodji"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0346204/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm4543836/",
+        "name": "Ariane Astrid Atodji"
+      }
+    ],
+    "duration": "PT1H26M",
+    "@id": "https://www.imdb.com/title/tt1988683/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0000039/",
+    "name": "Barnet Horse Fair",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 34,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 3.7
+    },
+    "genre": [
+      "Short"
+    ],
+    "@id": "https://www.imdb.com/title/tt0000039/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0105159/",
+    "name": "The Power of One",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzgzZTZkNTAtNjVmYi00MzJkLTkzN2UtYjkyOGU4OWJjYzFhXkEyXkFqcGc@._V1_.jpg",
+    "description": "An English boy, living in Africa during World War II, through his boxing prowess, becomes a symbol of hope, in a time of war.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0105159/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "David, Film Freak"
+      },
+      "dateCreated": "2001-07-01",
+      "inLanguage": "English",
+      "name": "Okay then...",
+      "reviewBody": "Judging by the user comments, it would (definitely) seem that you guys think that &apos;The Power Of One&apos; didn&apos;t have a snowballs chance in Hell of being a favorite with you guys, and that it was pretty much a waste of money (Stop me if I&apos;m wrong). Am I right?\n\nWell, I had to study the movie for an English assignment a week ago, and while these kind of movies usually bore the **** out of me, I found &apos;The Power Of One&apos; to be a moving, and inspirational film. Of course, I haven&apos;t read the book (a book with that many pages? Hell no!) - and we all know that books are usually better.\n\nBut anyway, I really liked this film. Stephen Dorff&apos;s and Morgan Freeman&apos;s performances were great as eighteen-year-old P.K. and Gail Peit (or however the hell you spell his last name). And while Fay Masterston as Maria is an okay actress, she appears to be in the film for absolutely no reason at all.\n\nWell, I still think &apos;The Power Of One&apos; is a really good movie, no matter how many people pan it."
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 10906,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 7.1
+    },
+    "contentRating": "PG-13",
+    "genre": [
+      "Drama",
+      "Sport"
+    ],
+    "datePublished": "1992-03-27",
+    "keywords": "apartheid,boarding school,south africa,prison,boxing",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "The Power of One",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi1660420377",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmRiOGM2NDctMjZkNC00ZmU0LWI0MjMtZGZhZjI0Y2Q3MjkwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmRiOGM2NDctMjZkNC00ZmU0LWI0MjMtZGZhZjI0Y2Q3MjkwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi1660420377/",
+      "description": "Home Video Trailer from Warner Home Video",
+      "duration": "PT1M41S",
+      "uploadDate": "2008-04-11T17:03:37Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0001151/",
+        "name": "Stephen Dorff"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000090/",
+        "name": "Armin Mueller-Stahl"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000151/",
+        "name": "Morgan Freeman"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000814/",
+        "name": "John G. Avildsen"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0021159/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0028557/"
+      },
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0007127/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0183811/",
+        "name": "Bryce Courtenay"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0436543/",
+        "name": "Robert Mark Kamen"
+      }
+    ],
+    "duration": "PT2H7M",
+    "@id": "https://www.imdb.com/title/tt0105159/#schema-0"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt1324062/",
+    "name": "Zoomerne",
+    "alternateName": "Zoomers",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDdjMThmYWYtNmUzYy00MTU1LTgzYzMtOTc5MGExNWZhYWE1XkEyXkFqcGc@._V1_.jpg",
+    "description": "Two boys and an electric kettle, a robot, 100 surveillance cameras and a girl named Thea.",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 185,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 6
+    },
+    "genre": [
+      "Family"
+    ],
+    "datePublished": "2009-06-04",
+    "keywords": "robot,boy,girl,spy,young spy",
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3383068/",
+        "name": "Frederik Ludvig Mansa"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3382351/",
+        "name": "Sophus Emil Løkkegaard"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm3383044/",
+        "name": "Emilie Løvenstein Vegeberg"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0160157/",
+        "name": "Christian E. Christiansen"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0136662/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0160157/",
+        "name": "Christian E. Christiansen"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm1342241/",
+        "name": "Morten Dragsted"
+      }
+    ],
+    "duration": "PT1H28M",
+    "@id": "https://www.imdb.com/title/tt1324062/#schema-0"
+  }
+]

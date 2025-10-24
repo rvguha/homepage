@@ -1,0 +1,3 @@
+# Ignore all test data
+!.gitignore
+!test_sites.json

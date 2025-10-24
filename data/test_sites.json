@@ -1,0 +1,10 @@
+{
+  "sites": [
+    "backcountry_com",
+    "hebbarskitchen_com",
+    "imdb_com",
+    "tripadvisor_com"
+  ],
+  "base_url": "http://localhost:8000/",
+  "instructions": "Run 'python3 -m http.server 8000' in the data/ directory to serve these files"
+}

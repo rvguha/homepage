@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url contentType="structuredData/schema.org">
-    <loc>http://localhost:8000/imdb_com/1.json</loc>
+    <loc>https://testing.nlweb.ai/data/imdb_com/1.json</loc>
   </url>
   <url contentType="structuredData/schema.org">
-    <loc>http://localhost:8000/imdb_com/3.json</loc>
+    <loc>https://testing.nlweb.ai/data/imdb_com/3.json</loc>
   </url>
   <url contentType="structuredData/schema.org">
-    <loc>http://localhost:8000/imdb_com/5.json</loc>
+    <loc>https://testing.nlweb.ai/data/imdb_com/5.json</loc>
   </url>
   <url contentType="structuredData/schema.org">
-    <loc>http://localhost:8000/imdb_com/6.json</loc>
+    <loc>https://testing.nlweb.ai/data/imdb_com/6.json</loc>
   </url>
   <url contentType="structuredData/schema.org">
-    <loc>http://localhost:8000/imdb_com/7.json</loc>
+    <loc>https://testing.nlweb.ai/data/imdb_com/7.json</loc>
   </url>
   <url contentType="structuredData/schema.org">
-    <loc>http://localhost:8000/imdb_com/8.json</loc>
+    <loc>https://testing.nlweb.ai/data/imdb_com/8.json</loc>
   </url>
 </urlset>

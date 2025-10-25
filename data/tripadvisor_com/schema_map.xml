@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url contentType="structuredData/schema.org">
-    <loc>https://testing.nlweb.ai/data/tripadvisor_com/1.json</loc>
+    <loc>https://guha.com/data/tripadvisor_com/1.json</loc>
   </url>
   <url contentType="structuredData/schema.org">
-    <loc>https://testing.nlweb.ai/data/tripadvisor_com/10.json</loc>
+    <loc>https://guha.com/data/tripadvisor_com/10.json</loc>
   </url>
 </urlset>

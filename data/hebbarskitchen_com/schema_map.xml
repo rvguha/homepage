@@ -4,7 +4,13 @@
     <loc>https://guha.com/data/hebbarskitchen_com/1.json</loc>
   </url>
   <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/2.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
     <loc>https://guha.com/data/hebbarskitchen_com/3.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/4.json</loc>
   </url>
   <url contentType="structuredData/schema.org">
     <loc>https://guha.com/data/hebbarskitchen_com/5.json</loc>
@@ -17,5 +23,53 @@
   </url>
   <url contentType="structuredData/schema.org">
     <loc>https://guha.com/data/hebbarskitchen_com/8.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/9.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/10.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/11.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/12.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/13.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/14.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/15.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/16.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/17.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/18.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/19.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/20.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/21.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/22.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/23.json</loc>
+  </url>
+  <url contentType="structuredData/schema.org">
+    <loc>https://guha.com/data/hebbarskitchen_com/24.json</loc>
   </url>
 </urlset>

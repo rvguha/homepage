@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url contentType="structuredData/schema.org+tsv">
+    <loc>https://guha.com/data/riponcathedral_org_uk/1.txt</loc>
+  </url>
+  <url contentType="structuredData/schema.org+tsv">
+    <loc>https://guha.com/data/riponcathedral_org_uk/2.txt</loc>
+  </url>
+  <url contentType="structuredData/schema.org+tsv">
+    <loc>https://guha.com/data/riponcathedral_org_uk/3.txt</loc>
+  </url>
+</urlset>
